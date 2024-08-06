@@ -18,6 +18,10 @@ The process continues
 
 ----------------------
 
+I updated the keylogger to make it compatible with Discords Webhook bots
+
+----------------------
+
 Use it as you want, I don't care.
 
 made by Themanhimself115
